@@ -34,11 +34,7 @@ pip install pandas numpy scikit-learn
 
 ## Usage
 1. Clone the repository and navigate to the project directory.
-2. Execute the script:
-   ```bash
-   python main.py
-   ```
-3. The output `submission.csv` file will contain the predicted sales quantities.
+2. The output `submission.csv` file will contain the predicted sales quantities.
 
 ## Key Results
 - **MAPE**: The ensemble learning model achieved a MAPE score of `{:.2f}` on the test dataset.

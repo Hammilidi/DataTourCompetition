@@ -23,7 +23,7 @@ This project aims to forecast product sales quantities using machine learning te
 ## Project Files
 - `train.csv`: Training dataset.
 - `submission.csv`: Template for submission with product IDs and predicted quantities.
-- `main.py`: Python script containing the complete implementation.
+- `DataTour.ipynb`: Python script containing the complete implementation.
 - `submission.csv`: Final submission file with predictions.
 
 ## Prerequisites
@@ -55,4 +55,4 @@ pip install pandas numpy scikit-learn
 - Build a web interface for real-time sales predictions.
 
 ## Contact
-For inquiries, reach out to [Your Name or Email].
+For inquiries, reach out to [yonlifidelis2@gmail.com].
